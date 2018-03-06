@@ -13,10 +13,10 @@ Write a Hello World program
 This Application Consists of :
 
 - API- This contains the WEB API code.
-- API.Tests- Unit test cases to test the application.
+- APIUnitTests.Tests- Unit test cases to test the application.
 - Business.Models- Contains the database/list tables and corresponding models.
 - Business.Services- Contains all the repository calls.
-- ConsoleApp- Console application to print Hello World on the console.
+- HelloWorld- Console application to print Hello World on the console.
 - RepositoryLayer- Contains all the database/list calls.
 
 Project Approach:
@@ -26,3 +26,5 @@ Project Approach:
 - This project covers concepts like Inheritance, Interface implementation, WEB API 3-tier architecture.
 - This API supports mobile applications,web applications and console applications.
 - Unit test cases are written to test the controller functions like GET,PUT,POST,etc.
+
+Note: Due to the size constraint in GitHub(25MB) I had to remove the packages folder from the solution. If this code on GitHub doesnt work,please let me know so that I can send a link from Google drive to the complete solution.
