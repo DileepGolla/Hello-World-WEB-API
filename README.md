@@ -13,10 +13,10 @@ Write a Hello World program
 This Application Consists of :
 
 - API- This contains the WEB API code.
-- API.UnitTests- Unit test cases to test the application.
+- API.Tests- Unit test cases to test the application.
 - Business.Models- Contains the database/list tables and corresponding models.
 - Business.Services- Contains all the repository calls.
-- HelloWOrld- Console application to print Hello World on the console.
+- ConsoleApp- Console application to print Hello World on the console.
 - RepositoryLayer- Contains all the database/list calls.
 
 Project Approach:
